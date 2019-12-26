@@ -1,8 +1,18 @@
-**Instructions**
+# Summary
+
+For this assignment, I had to create functions that..
+- Roll a dice X amount of times based on user input and print the sum
+- Display a table for falling distance based on time
+- Save account info to a text file
+- Display the area of a screen based on height and width
+- Create a function that validates user data so that it is between x and y
+- Displays a trivia question and whether or not the user answered correctly
+
+# Instructions (Copy and Pasted from Canvas)
 
 Each task below involves creating and using a specific function. For each one, you need to do write code in three different places:
 
--Include an appropriate prototype above main()
+- Include an appropriate prototype above main()
 
 - Write the full function definition below main()
 
