@@ -1,4 +1,12 @@
-**Instructions**
+# Summary
+
+Based on user input, I had to:
+- Make a simple arithmetic question and verify if the answer is correct
+- Produce an astronaut weight report showing their weight on different planets
+- Display their MPH
+- Allow the user to enter a club based on their age and if they had the password
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
 
 Your program must begin by presenting the user with a MENU of numbered items, exactly like this:
 
