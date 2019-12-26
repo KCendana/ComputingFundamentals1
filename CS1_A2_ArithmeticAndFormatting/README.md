@@ -1,4 +1,13 @@
-**Instructions**
+# Summary
+
+Based on user input, I had to:
+- Report the area of a pizza
+- Print a movie theater receipt of child and adult tickets
+- Create a simple Mad Libs game
+- Produce a bank account report with their interest rate, principal, etc.
+- Create a dice roll game
+
+**Instructions (Copy Pasted from Canvas and Formatted)**
 
 For this assignment, you must use output manipulators to make numeric and money output "line up" nicely.
 
