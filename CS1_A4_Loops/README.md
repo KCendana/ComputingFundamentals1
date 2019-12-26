@@ -1,4 +1,14 @@
-**Instructions**
+# Summary
+
+For this assignment, I had to:
+- Create a trivia game sample
+- Display a temperature table for Celsius and Fahrenheit
+- Display a distance table
+- Create a small voting simulator and display the count for each vote
+- Recieve user prices and report the average and sum of all prices
+- Recieve user movie ratings and display the average of the ratings and the well rated movies
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
 
 These tasks focus on loops and logical operators (!, &&, ||).
 
