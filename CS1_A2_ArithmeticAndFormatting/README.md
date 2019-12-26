@@ -7,7 +7,7 @@ Based on user input, I had to:
 - Produce a bank account report with their interest rate, principal, etc.
 - Create a dice roll game
 
-**Instructions (Copy Pasted from Canvas and Formatted)**
+# Instructions (Copy Pasted from Canvas and Formatted)
 
 For this assignment, you must use output manipulators to make numeric and money output "line up" nicely.
 
