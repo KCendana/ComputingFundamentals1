@@ -1,4 +1,11 @@
-**Instructions**
+# Summary
+
+For this assignment, I had to create functions that...
+- Used a 2D array to track information about user ratings for restaurants and display it
+- Used a 2D array to simulate a game of tic tac toe
+- Determined whether or not a word contained another word anywhere inside of it
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
 
 Each task below, specifies on separate function to write. The prototypes are provided for you. Make sure you read the specifications carefully. Some of the functions call previous functions on the list, and they are in a deliberate order.
 
