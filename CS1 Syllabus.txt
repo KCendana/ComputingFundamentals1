@@ -1,0 +1,37 @@
+CS1 Syllabus: Measurable Objectives 
+
+Upon completion of this course, the student should be able to:
+
+- Design, create and compile C++ programs within multiple development environments and operating systems, including the use of command-line tools in Unix/Linux.
+
+- Interpret and apply C++ control structures for sequencing, selection and iteration.
+
+- Interpret and implement programmer-defined functions in C++.
+
+- Create and interpret expressions involving arithmetic and logical operators.
+
+- Interpret and apply arrays and simple programmer-defined data structures in C++.
+
+- Modify and expand short programs that use standard conditional and iterative control structures and functions.
+
+- Choose appropriate conditional and iteration constructs for a given programming task.
+
+- Apply the techniques of structured (functional) decomposition to break a program into smaller pieces.
+
+- Analyze and explain the behavior of simple programs.
+
+- Describe, interpret and apply the mechanics of parameter passing.
+
+- Discuss and apply the concept of algorithms in problem-solving processes.
+
+- Judge the correctness and quality of algorithms, identifying necessary properties of good algorithms.
+
+- Describe and apply effective debugging strategies.
+
+- Identify properties of variables and apply different forms of variable binding, visibility, scoping, and lifetime management.
+
+- Explain, interpret and apply elements of syntax related variable types, including type-checking, abstraction, type incompatibility and type safety.
+
+- Demonstrate understanding of fundamental syntax and control structures. This includes variables, arithmetic statements, if statements and loops.
+
+- Explain and implement programmer-defined functions in C++.
