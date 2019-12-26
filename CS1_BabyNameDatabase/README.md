@@ -1,4 +1,11 @@
-**Overview**
+# Summary
+
+For this assignment, I had to...
+- Open two files that contained the top 5000 male and female names
+- Read and upload each name into a vector data structure
+- Search for a user inputted name and display the name's number in both the male and female rankings
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
 
 This activity will use file I/O and vectors to give the user an interactive tool for looking up the popularity of baby names. 
 
