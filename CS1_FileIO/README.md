@@ -1,6 +1,13 @@
-**Instructions**
+# Summary
 
-For this exercise, your team will write a program to process a file that specifies a set of movie rating data for a user. Think of this as one tiny part of the database Netflix keeps for all of its users and all the movies they have rated. The format of the file is as follows:
+For this assignment, I had to...
+- Read data from a text file representing a table of show titles and ratings
+- Enter any new user data in case they want to enter any ratings of shows
+- Search for any possible titles and it's rating
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
+
+For this exercise, you will write a program to process a file that specifies a set of movie rating data for a user. Think of this as one tiny part of the database Netflix keeps for all of its users and all the movies they have rated. The format of the file is as follows:
 
 - Line #1 contains a user's name.
 
