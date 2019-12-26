@@ -1,4 +1,4 @@
-# Computing Fundamentals CPP
+# Computing Fundamentals 1
 Class projects made during my first CS class! Simple C++ code that I learned when I first started programming.
 
 *If you click on a project, you can see the instructions below.*
