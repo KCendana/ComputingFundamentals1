@@ -1,4 +1,11 @@
-**Instructions**
+# Summary
+
+For this assignment, I had to...
+- Construct a database to keep track of individual students in a class and other info about them
+- Calculate their average quiz score and their grade recieved
+- Linearly search through the database for any students with an ID number entered by the user
+
+# Instructions (Copy and Pasted from Canvas and Formatted)
 
 In this task, you will implement a simple "database" application for tracking information about students in a class.
 
