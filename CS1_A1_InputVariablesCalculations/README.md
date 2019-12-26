@@ -1,4 +1,4 @@
-**Summary**
+# Summary
 
 My first assignment!
 
@@ -7,7 +7,7 @@ For this assignment, I had to:
 - Calculate and display a user's height in total inches and centimeter's based on user input
 - Print a fast food receipt based on user input (name of food item and it's price)
 
-**Instructions (Copy Pasted from Canvas and Formatted)**
+# Instructions (Copy Pasted from Canvas and Formatted)
 
 Complete all tasks listed below. All commands should go in one main.cpp file together, in order.
 
