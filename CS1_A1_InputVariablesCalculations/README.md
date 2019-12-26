@@ -1,4 +1,13 @@
-**Specifications**
+**Summary**
+
+My first assignment!
+
+For this assignment, I had to:
+- Calculate and display gas mileage based on user input
+- Calculate and display a user's height in total inches and centimeter's based on user input
+- Print a fast food receipt based on user input (name of food item and it's price)
+
+**Instructions (Copy Pasted from Canvas and Formatted)**
 
 Complete all tasks listed below. All commands should go in one main.cpp file together, in order.
 
@@ -30,13 +39,9 @@ Ask the user to enter three items purchased at a restaurant along with their pri
 
 - Enter 1st item: burger
 - Enter price of the burger: 6.75
-
 - Enter 2nd item: fries
-
 - Enter price of the fries: 2.50
-
 - Enter 3rd item: milkshake
-
 - Enter price of the milkshake: 3
 
 Determine the subtotal cost by summing the three item prices. This should be stored in its own variable.
@@ -48,7 +53,7 @@ Print a report matching the following form. (Again, bold names and prices are sa
 
 **Receipt for Karen**
 - burger    $  6.75
-- ries     $  2.50
+- fries     $  2.50
 - milkshake $  3.00
 - Subtotal  $ 12.25
 - Tax       $  1.13
